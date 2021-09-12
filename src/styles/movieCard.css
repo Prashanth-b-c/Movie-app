@@ -1,0 +1,19 @@
+.movie-card-main-flex{
+    display: inline-flex;
+    margin: 10px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.movie-card-item{
+    text-align: center;
+    padding: 10px;
+}
+
+.btn-delete{
+    border: transparent;
+    cursor: pointer;
+    background-color: transparent;
+}

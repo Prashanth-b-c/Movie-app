@@ -1,0 +1,11 @@
+.movie-container-top-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.aside-container {
+    display: flex; 
+    flex-direction: column;
+    align-items:flex-end;
+}
